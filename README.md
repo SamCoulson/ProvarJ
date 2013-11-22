@@ -6,13 +6,15 @@ ProvarJ, written by Sam Coulson, is a re-implementation of Provar in Java; this 
  
 So far ProvarJ has been tested using ensemble conformations from: 
  
-CONCOORD 
+tCONCOORD 
  
 And output file for pocket predictions from: 
  
 PASS 
  
-fPocket 
+fPocket
+
+fPocketDirect 
  
 Ligsite 
  
