@@ -33,14 +33,17 @@ On Windows:
  
 Open cmd 
  
-cd /path of provarJ/ 
+cd /path of provarJ/
+
+mkdir build
+ 
 javac -d build - classpath "/path of biojava3/biojava3-structure/target/*" /src/main/java/com/provar/app/*.java src/main/java/com/provar/view/*.java 
  
 To run from windows command line: 
 /path of ProvarJ/ 
 cd /build 
-java -cp . com.provar.app.provar 
- 
+java -cp . com.provar.app.ProvarJ 
+Note: Must use captials on P and J or ProvarJ 
  
  
 Publication for the original Provar implementation: 
