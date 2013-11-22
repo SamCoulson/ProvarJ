@@ -43,7 +43,8 @@ To run from windows command line:
 /path of ProvarJ/ 
 cd /build 
 java -cp . com.provar.app.ProvarJ 
-Note: Must use captials on P and J or ProvarJ 
+
+Note: Must use captials on P and J of ProvarJ 
  
  
 Publication for the original Provar implementation: 
